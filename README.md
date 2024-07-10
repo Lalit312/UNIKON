@@ -1,4 +1,4 @@
-# unicon
+# unikon
 Import Statements: The necessary modules and libraries are imported, including Express, body-parser, Multer, Mongoose, Nodemailer, etc.
 
 Server Setup: The Express application is created, middleware is set up for parsing request bodies and serving static files, and the view engine is set to EJS.
